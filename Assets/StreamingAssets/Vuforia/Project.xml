@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="super_medium_667e9679cf602864dc0022937d0b0483" size="1.000000 0.553793" />
+    <ImageTarget name="km-12-shimo-1000x1000" size="1.000000 1.000000" />
+    <ImageTarget name="Madrid_MDF05" size="1.000000 1.000000" />
+    <ImageTarget name="1310039264big_pic" size="1.000000 0.750000" />
+    <ImageTarget name="tumba" size="1.000000 1.000000" />
+    <ImageTarget name="comp" size="1.000000 1.118012" />
+    <ImageTarget name="1942_product-photo" size="1.000000 1.869159" />
+    <ImageTarget name="83517" size="1.000000 1.333333" />
+    <ImageTarget name="5a59ecdeece75807516737" size="1.000000 0.594904" />
+    <ImageTarget name="1099892_preview" size="1.000000 0.746032" />
+    <ImageTarget name="1007a0a9c02c7fb91551ac65d1c684b9" size="1.000000 0.750000" />
+  </Tracking>
+</QCARConfig>
